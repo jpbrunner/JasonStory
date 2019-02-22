@@ -1,3 +1,9 @@
+
+0 directories, 3 files
+[schuett@royal-11] (64)$ tree
+.
+├── README.md
+├── story
 Todd Howard is the spokeman for bethesda games but what people really don't
  know is that he is an alien from another world. Todd Howard is known for one
  thing, lots of Skyrim for every console that ever exists, what people don't
@@ -18,3 +24,8 @@ The elder scrolls game notwithstanding, a new AAA game was on the horizon.
 Artifact. The fact that the game was based on another company's IP was not
 an obstacle for Godd Howard. He had a plan: infiltrate Blizzard, steal the 
 source code, save humanity. After all, we do have phones.
+
+Godd Howard's plan worked perfectly. He infiltrated Blizzard by disguising 
+himself as a Blizzard employee using his alien technology, the Character 
+Customization Chamber. Now all he needs to do is get back to his home
+ planet, Spaghetteron.
